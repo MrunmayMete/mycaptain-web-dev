@@ -1,0 +1,27 @@
+body {
+  margin:50px;
+background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+text-align: center;
+padding: 5px
+}
+
+
+
+.img1 {
+}
+
+  .h1 {
+    font-size: 60px;
+    display: inline-block;
+    font-family: cursive;
+    width: 500px;
+  }
+
+  .h2 {
+    display: inline-block;
+    font-family: cursive;
+  }
+
+  .h3 {
+    font-family: cursive;
+  }
